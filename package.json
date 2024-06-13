@@ -1,0 +1,19 @@
+{
+  "name": "the-graveyard",
+  "version": "0.0.1",
+  "description": "Blog for Me",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirSenpai/The-Graveyard.git"
+  },
+  "author": "AmirSenpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirSenpai/The-Graveyard/issues"
+  },
+  "homepage": "https://github.com/AmirSenpai/The-Graveyard#readme"
+}
